@@ -1,2 +1,2 @@
 # Final-Project-1600
-(google.com) google.com {google.com}
+ (https://www.markdownguide.org/cheat-sheet/) <https://www.markdownguide.org/cheat-sheet/> !https://www.markdownguide.org/cheat-sheet/! {https://www.markdownguide.org/cheat-sheet/}
