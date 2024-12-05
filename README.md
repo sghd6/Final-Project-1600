@@ -1,8 +1,10 @@
-# Final-Project-1600
-By Spencer Hunt
+# How to Evaluate a Television
+## INFOTC 1600 Final Porject
+### By Spencer Hunt
 
-Given that the holiday season is here, I figured a good use of my knowledge would be to go over the specs over the latest Amazon television. This document will go over the technical parts as well as their alternatives.
+#### Purpose 
+Given that the holiday season is here, I figured a good use of my knowledge would be to go over the specs over the *Amazon Fire TV 50" 4-Series 4K UHD Smart TV*. This document will go over the technical aspects of a screen using a real-world example. It will also go over alternatives, such as UHD vs 8K, and how they compare to the product.
 
-Will the television make for a good holiday gift or does it fall flat? Read on to find out.
-
+#### Target Demographic
+The target demographic will be the everyday shopper. Those who want a simple explanation for what all the technical jargon means. Those who don't have. an engineering background to be their aid. I used to be that person and would have enjoyed a guide like this.
 
