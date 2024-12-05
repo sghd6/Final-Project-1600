@@ -8,3 +8,16 @@ Given that the holiday season is here, I figured a good use of my knowledge woul
 #### Target Demographic
 The target demographic will be the everyday shopper. Those who want a simple explanation for what all the technical jargon means. Those who don't have. an engineering background to be their aid. I used to be that person and would have enjoyed a guide like this.
 
+##### Table of Contents
+
+1. Amazon TV Specs
+2. Resolution
+3. Display Resolution
+4. High Dynamic Range Format
+5. Backlight Type
+6. Refresh Rate
+7. Pixel Density
+8. HDMI Ports
+9. Audio Power
+10. Audio Support
+
