@@ -2,9 +2,9 @@
 
 ## Audio Power in the Example: 8W + 8W
 The 8W's stand for eight watts per speaker, this indicates that the total watts the speakers use is 16 watts.
-This is fairly common for tv's in the price range of our Amazon example.
+This is fairly common for tvs in the price range of our Amazon example.
 This means that the speakers use low power, clear audio, but low volume.
-The livingroom, or ideally the bedroom, would be the ideal place for this television.
+The living room, or ideally the bedroom, would be the ideal place for this television.
 
 ## Audio Power Alternative: 16W + 16W
 This will use 32 watts of power.
