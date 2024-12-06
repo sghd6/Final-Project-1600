@@ -1,1 +1,1 @@
-
+# Refresh Rate
