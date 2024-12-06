@@ -10,7 +10,7 @@ The target demographic will be the everyday shopper. Those who want a simple exp
 
 ##### Table of Contents
 
-1. Amazon TV Specs
+1. [Amazon TV Specs](https://github.com/sghd6/Final-Project-1600/blob/main/Amazon%20TV%20Specs.md)
 2. Resolution
 3. Display Resolution
 4. High Dynamic Range Format
