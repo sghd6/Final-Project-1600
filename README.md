@@ -11,13 +11,13 @@ The target demographic will be the everyday shopper. Those who want a simple exp
 ##### Table of Contents
 
 1. [Amazon TV Specs](https://github.com/sghd6/Final-Project-1600/blob/main/Amazon%20TV%20Specs.md)
-2. Resolution
-3. Display Resolution
-4. High Dynamic Range Format
-5. Backlight Type
-6. Refresh Rate
-7. Pixel Density
-8. HDMI Ports
-9. Audio Power
-10. Audio Support
+2. [Resolution](https://github.com/sghd6/Final-Project-1600/blob/main/Resolution.md)
+3. [Display Resolution](https://github.com/sghd6/Final-Project-1600/blob/main/Display%20Resolution.md)
+4. [High Dynamic Range Format](https://github.com/sghd6/Final-Project-1600/blob/main/High%20Dynamic%20Range%20Format.md)
+5. [Backlight Type](https://github.com/sghd6/Final-Project-1600/blob/main/Backlight%20Type.md)
+6. [Refresh Rate](https://github.com/sghd6/Final-Project-1600/blob/main/Refresh%20Rate.md)
+7. [Pixel Density](https://github.com/sghd6/Final-Project-1600/blob/main/Pixel%20Density.md)
+8. [HDMI Ports](https://github.com/sghd6/Final-Project-1600/blob/main/HDMI%20Ports.md)
+9. [Audio Power](https://github.com/sghd6/Final-Project-1600/blob/main/Audio%20Power.md)
+10. [Audio Support](https://github.com/sghd6/Final-Project-1600/blob/main/Audio%20Support.md)
 
