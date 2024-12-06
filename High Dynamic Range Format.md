@@ -6,10 +6,10 @@ This means that a device has 10-bit color, meaning that over a billion colors ca
 ### HLG
 You can consider this the European version of HDR, with a few differences. The bit-color and contrast are the same. You could adjust the brightness scene-by-scene during a movie, so you could make the darker scene in *The Batman* more visible without completely blowing out the brighter scenes. This is also a more ideal choice for broadcasts, due to its adaptablity.
 
-## High Dynamic Range (HDR) Format Alternative: Dobly Vision
-This is a more expensive upgrade to what the above screen is capable of. This provides 12-bit color, giving you a higher variety of colors that can be seen. The contrast between light and shadow also dramtically increases. While HLG can adjust scene-by-scene, this can go frame-by frame. 
+## High Dynamic Range (HDR) Format Alternative: Dolby Vision
+This is a more expensive upgrade to what the above screen is capable of. This provides 12-bit color, giving you a higher variety of colors that can be seen. The contrast between light and shadow also dramatically increases. While HLG can adjust scene-by-scene, this can go frame-by frame. 
 
 ## Main Takeaway
-The High Dynamic Range Fortmat tells you what a screen is capabable of displaying to you. The above examples are good quality formats and should be kept in mind during your holiday gift search.
+The High Dynamic Range Fortmat tells you what a screen is capable of displaying to you. The above examples are good quality formats and should be kept in mind during your holiday gift search.
 
 
