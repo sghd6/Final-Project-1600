@@ -1,1 +1,1 @@
-## Display Resolution
+# Display Resolution
