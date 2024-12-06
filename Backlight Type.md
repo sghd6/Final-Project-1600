@@ -2,8 +2,8 @@
 
 ## Backlight Type in the Example: Direct LED
 This tells you how exactly the television lights up.
-In this setup, the light is coming from behind the screen for a consistant brightness.
-Televisions with this lighting scheme are usually thicker to account for the lights' placement.
+In this setup, the light is coming from behind the screen for a consistent brightness.
+Televisions with this lighting scheme are usually thicker to account for the light's placement.
 This provides a good quality range for light and shadow, which means you can watch something like *The Batman* without having to squint.
 These screens can last for over 100,000 hours of screen time.
 
