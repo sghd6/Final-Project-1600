@@ -1,1 +1,1 @@
-
+# High Dynamic Range Format
