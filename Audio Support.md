@@ -2,8 +2,8 @@
 
 ## Audio support in the Example: Dolby Digital Plus with passthrough of Dolby-encoded audio
 This is what you look at if you have a surround-sound system or some other exterior speaker.
-Dobly Digital Plus is about in the middle range for audio singals, better than older Dobly versions but still below the more expensive products.
-This provides good quality sound and it supports multi-channel audio, which means your surrround sound system can be used to its full potential.
+Dobly Digital Plus is about in the middle range for audio signals, better than older Dolby versions but still below the more expensive products.
+This provides good quality sound and it supports multi-channel audio, which means your surround sound system can be used to its full potential.
 This is also very common for streaming platforms like Netflix and Hulu, even Blu-Rays support it.
 
 ## Audio Support Alternative: Dolby TrueHD with passthrough of Dolby-encoded audio
