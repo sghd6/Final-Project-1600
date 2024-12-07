@@ -20,4 +20,4 @@ The target demographic will be the everyday shopper. Those who want a simple exp
 8. [HDMI Ports](https://github.com/sghd6/Final-Project-1600/blob/main/HDMI%20Ports.md)
 9. [Audio Power](https://github.com/sghd6/Final-Project-1600/blob/main/Audio%20Power.md)
 10. [Audio Support](https://github.com/sghd6/Final-Project-1600/blob/main/Audio%20Support.md)
-
+11. [Final Thoughts]
